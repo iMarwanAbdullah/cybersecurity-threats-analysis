@@ -86,7 +86,7 @@ Average resolution time is about 36 hours for every defense mechanism.
 - Country totals depend on the number of recorded incidents.
 
 ## Author
-**Marwan Abdullah**, Computer Information Systems student at IMSIU
+**Marwan Abdullah**, Information Systems student at IMSIU
 
 - GitHub: [@iMarwanAbdullah](https://github.com/iMarwanAbdullah)
 - LinkedIn: [marwan-alsuhaifi](https://www.linkedin.com/in/marwan-alsuhaifi)
